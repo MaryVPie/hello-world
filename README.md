@@ -1,2 +1,2 @@
 # hello-world
-First repository
+I love my little pony!
